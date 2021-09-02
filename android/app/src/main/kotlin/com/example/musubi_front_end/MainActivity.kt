@@ -1,4 +1,4 @@
-package com.example.musubi_front_end
+package com.musubi.musubi_front_end
 
 import io.flutter.embedding.android.FlutterActivity
 

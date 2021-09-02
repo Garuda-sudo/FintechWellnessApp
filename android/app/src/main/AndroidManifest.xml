@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.musubi_front_end">
+    package="com.musubi.musubi_front_end">
    <application
         android:label="musubi_front_end"
         android:icon="@mipmap/ic_launcher">
